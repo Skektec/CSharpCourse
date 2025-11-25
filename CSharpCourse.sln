@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc2", "Calc2\Calc2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDown", "CountDown\CountDown.csproj", "{E1227181-AEEC-4360-97EF-993B17CA5549}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRocketLand", "ConsoleRocketLand\ConsoleRocketLand.csproj", "{AAF3176A-419B-4CEB-8C23-76496041C7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPractice1", "ArrayPractice1\ArrayPractice1.csproj", "{FC46DA0F-0520-4D61-B9AD-9FF588B185AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{E1227181-AEEC-4360-97EF-993B17CA5549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1227181-AEEC-4360-97EF-993B17CA5549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1227181-AEEC-4360-97EF-993B17CA5549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF3176A-419B-4CEB-8C23-76496041C7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF3176A-419B-4CEB-8C23-76496041C7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF3176A-419B-4CEB-8C23-76496041C7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF3176A-419B-4CEB-8C23-76496041C7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC46DA0F-0520-4D61-B9AD-9FF588B185AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC46DA0F-0520-4D61-B9AD-9FF588B185AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC46DA0F-0520-4D61-B9AD-9FF588B185AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC46DA0F-0520-4D61-B9AD-9FF588B185AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
